@@ -1,0 +1,39 @@
+What is the distribution of Metacritic scores for Nintendo games, and are there any notable outliers?
+
+Is there a correlation between Metacritic scores and user scores for Nintendo games?
+
+Which Nintendo platform has the highest average Metacritic score?
+
+Which Nintendo platform has the most games listed in the dataset, and what is the average Metacritic score for those games?
+
+How have Metacritic scores for Nintendo games evolved over time? Are there any trends or patterns?
+
+What are the top 10 highest-rated Nintendo games according to Metacritic scores?
+
+What is the distribution of ESRB ratings for Nintendo games? Are some ratings more common than others?
+
+Do ESRB ratings have any correlation with Metacritic or user scores?
+
+Which developers have the most games in the dataset, and what is the average Metacritic score for their games?
+
+What are the most common genres for Nintendo games in the dataset, and do certain genres tend to have higher Metacritic scores?
+
+Is there a relationship between the release date of a game and its Metacritic score? Does the era in which a game was released impact its rating?
+
+Are there any games in the dataset that have exceptionally high Metacritic scores but low user scores, or vice versa?
+
+Do games with a higher number of user ratings tend to have higher Metacritic scores, indicating a potential bias in user reviews?
+
+Are there any patterns or trends in the details page links of Nintendo games, such as common keywords or themes?
+
+Is there a difference in Metacritic scores between Nintendo first-party games and third-party games?
+
+What is the overall trend in Metacritic scores for Nintendo games over the years? Is there any evidence of improvement or decline in game quality?
+
+Are there any specific platforms that consistently receive higher Metacritic scores for certain genres of games?
+
+Is there a correlation between the number of developers working on a game and its Metacritic score?
+
+Do certain ESRB ratings tend to be associated with specific genres of Nintendo games?
+
+Are there any interesting insights or outliers when examining the relationships between multiple variables, such as platform, genre, and Metacritic score?
