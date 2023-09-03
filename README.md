@@ -1,6 +1,6 @@
 # Nintendo Games Data Analysis
 
-![Nintendo Logo](nintendo_logo.png)
+ <img src="nintendo_logo.png" alt="Nintendo Logo" width="420" height="220">
 
 ## Overview
 
@@ -28,4 +28,4 @@ The dataset used in this project includes the following columns:
 - `README.md`: This documentation file.
 
 ## Contributing
-The project is currently in progress, but contributions are welcome. If you have any suggestions, improvements, or would like to add new features to the analysis, please follow these steps:
+The project is currently in progress, but contributions are welcome.
