@@ -1,6 +1,6 @@
 # Nintendo Games Data Analysis
 
-![Nintendo Logo](nintendo_logo.png)
+ <img src="nintendo_logo.png" alt="Nintendo Logo" width="420" height="220">
 
 ## Overview
 
