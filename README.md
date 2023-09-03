@@ -24,7 +24,7 @@ The dataset used in this project includes the following columns:
 
 - `Nintendo-Games.ipynb`: Jupyter Notebook containing the data analysis code.
 - `NintendoGames.csv`: Archive containing the dataset file(s).
-- `images/`: Directory for storing images used in the project.
+- `Questions.txt`: Questions that guide the project.
 - `README.md`: This documentation file.
 
 ## Contributing
