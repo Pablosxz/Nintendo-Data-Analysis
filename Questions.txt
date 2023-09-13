@@ -1,16 +1,16 @@
-What is the distribution of Metacritic scores for Nintendo games, and are there any notable outliers?
+OK! What is the distribution of Metacritic scores for Nintendo games, and are there any notable outliers?
 
-Is there a correlation between Metacritic scores and user scores for Nintendo games?
+OK! Is there a correlation between Metacritic scores and user scores for Nintendo games?
 
-Which Nintendo platform has the highest average Metacritic score?
+OK! Which Nintendo platform has the highest average Metacritic score?
 
-Which Nintendo platform has the most games listed in the dataset, and what is the average Metacritic score for those games?
+OK! Which Nintendo platform has the most games listed in the dataset, and what is the average Metacritic score for those games?
 
-How have Metacritic scores for Nintendo games evolved over time? Are there any trends or patterns?
+OK! How have Metacritic scores for Nintendo games evolved over time? Are there any trends or patterns?
 
-What are the top 10 highest-rated Nintendo games according to Metacritic scores?
+OK! What are the top 10 highest-rated Nintendo games according to Metacritic scores?
 
-What is the distribution of ESRB ratings for Nintendo games? Are some ratings more common than others?
+OK! What is the distribution of ESRB ratings for Nintendo games? Are some ratings more common than others?
 
 Do ESRB ratings have any correlation with Metacritic or user scores?
 
