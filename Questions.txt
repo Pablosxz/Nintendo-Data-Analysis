@@ -12,7 +12,7 @@ OK! What are the top 10 highest-rated Nintendo games according to Metacritic sco
 
 OK! What is the distribution of ESRB ratings for Nintendo games? Are some ratings more common than others?
 
-Do ESRB ratings have any correlation with Metacritic or user scores?
+OK! Do ESRB ratings have any correlation with Metacritic or user scores?
 
 Which developers have the most games in the dataset, and what is the average Metacritic score for their games?
 
